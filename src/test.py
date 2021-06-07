@@ -29,5 +29,5 @@ ex_string= '''
     }
 }
 '''
-for n in [1,2]:
+for n in [1,2,5,6]:
     print(n)
